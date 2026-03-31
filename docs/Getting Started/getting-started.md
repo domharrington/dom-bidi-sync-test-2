@@ -1,5 +1,6 @@
 ---
 title: Welcome to dom-bidi-sync-test
+excerpt: '111'
 hidden: false
 ---
 <Callout icon="📘" theme="info">
